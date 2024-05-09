@@ -9,16 +9,7 @@
         "id": "2",
         "email": "kevin@gmail.com",
         "password": "kevin gamer"
-      },
-      {
-        "id": "3",
-        "email": "next@gmail.com",
-        "password": "fdbfb"
-      },
-      {
-        "id": "4",
-        "email": "gamer@gmail.com",
-        "password": "gamer"
       }
+      
     ]
   }
