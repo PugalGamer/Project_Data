@@ -9,7 +9,11 @@
         "id": "2",
         "email": "kevin@gmail.com",
         "password": "kevin gamer"
-      }
-      
+      },
+         {
+        "id": "5",
+        "email": "spi@gmail.com",
+        "password": "spi"
+      }  
     ]
   }
